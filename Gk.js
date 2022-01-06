@@ -8,7 +8,6 @@ const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout
 });
-
 console.log("Lets check your General Knowledge");
 
 const queBank = [
